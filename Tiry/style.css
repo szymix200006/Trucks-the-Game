@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.board {
+    width: 100%;
+    height: 100vh;
+    background-color: green;
+}
+
+.collectedPackages {
+    width: 50px;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+}
+
+.restart {
+    width: 50px;
+    height: 20px;
+}
+
+.endScreen {
+    width: 100%;
+    height: 100vh;
+    background-color: aliceblue;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: black; 
+}
+
